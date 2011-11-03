@@ -22,7 +22,7 @@ tar xjf sdlhana-0.34.tar.bz2
 
 Then, compile and install:
 
-cd sdlhana-0.33
+cd sdlhana
 ./configure
 make
 make install
